@@ -5,3 +5,4 @@ virtualenv
 .project
 __pycache__
 *.pyc
+/static
